@@ -1,3 +1,2 @@
 # Deep-Learning-based-Feature-Extraction-with-sMRI-data-in-Neuroimaging-Genetics-for-Alzheimer's-Disease
-
-I am preparing the documention. In the mean time feel free to check and try to understand the code. If you have questions, feel free to reach me @ dipnil.dc@gmail.com
+In this paper, the authors propose a method of finding genetic varinats responsible for the Alzheimer's Disease with the help of features derived from the Magnetic Resonance Images (MRI) obtained from Alzheimer's Disease Neuroimaging Initiative (ADNI) database. As a result, the analysis is primarily divided in two parts. Firstly, we used a convolution neural network (CNN) model to perform an automatic extraction from the MRI images. This part of the coding has been done using Python
