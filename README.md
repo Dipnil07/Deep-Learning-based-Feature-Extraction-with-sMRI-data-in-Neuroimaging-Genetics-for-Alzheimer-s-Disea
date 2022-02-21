@@ -3,6 +3,28 @@ In this paper, the authors propose a method of finding genetic varinats responsi
 
 Part I (Convolution Neural Network in Python): 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part II (Regression model for the genetics model):
+
+
+
 in progress....
 
 
