@@ -22,6 +22,8 @@ Part II (Regression model for the genetics model):
 These part of the codes have been prepared in R programming language. The extracted features from the individual patients are combined with their available Genetic data. Then, we have used a simple linear regression method to identify the most important SNPs and relevant Genes. The point that makes this study novel in the literature of neuroimaging and genetic studies is that we have attempted for an automated methos of feature extraction instead of using just a few pre-selected brain atlases for the purpose of the genetic study. That is the uniqueness of this study and in future the authors want to explore the use of a combination of more advanced GWAS algorithms to find novel as well as known genes.
 
 
+The published codes have been prepared with respect to ADNI1 data. The dataset can be used and downloaded from ADNI-LONI website following a simple request. The details can be found here: https://adni.loni.usc.edu/data-samples/access-data/ 
+
 
 
 
